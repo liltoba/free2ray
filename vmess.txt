@@ -1,106 +1,73 @@
+V2rayNG NapsternetV FoXray V2box proxy | سرور رایگان, [5/28/2024 11:32 PM]
 سرور جدید V2ray 👑🤍
 
-vmess://eyJhZGQiOiIxODUuMTQ2LjE3My4zMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVjJyYXktXy1fLV8tXy1fLVNleXllZG10LllhaGF6cnRhYmJhc3NibG9nZmFtb29zaGFrYmFsZXN0aWsuQmxvZy4iLCJpZCI6IjkyNmJjMzYxLWUwNzUtNDUyZC05OTg5LWFiMjMwN2ZhMWM0NiIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleC5waHAvU2VZZURNVCIsInBvcnQiOiIyMDUyIiwicHMiOiJWMnJheU5HIHggfCDZh9mF2Ycg2KfZvtix2KfYqtmI2LHZh9inIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://e5af768c-8f94-4897-844d-ff1131ccdb82@nano-wash.mr-apk.ir:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=config-injectorV2%2Cconfig-injectorV2%2Cconfig-injectorV2%2Cconfig-injectorV2#V2rayNG+x+%7C+%D8%A8%D9%87+%D8%AC%D8%B2+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 
-vless://9457e601-007d-4ec3-ac15-c7ed9ea1e62f@185.146.173.94:8080?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+vless://telegram-id-ArV2ray@188.114.96.0:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray&sni=www.dnschecker.tech#V2rayNG+x+%7C+%D8%A8%D9%87+%D8%AC%D8%B2+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 
-vless://Join-VPNCUSTOMIZE@185.146.173.185:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+vless://ebe1f347-a4d0-4b88-ba26-3a0912fc0fcd@104.19.54.50:443?path=%2F&security=tls&encryption=none&host=SHHPROXY.snaapfood.org&type=ws&sni=SHHPROXY.snaapfood.org#V2rayNG+x+%7C+%D8%A8%D9%87+%D8%AC%D8%B2+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 
-vless://Telegram-ipV2Ray-mai@185.146.173.58:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=2.V2ray.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9168.Site.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+vless://Parsashonam-81@www.visa.com:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#V2rayNG+x+%7C+%D8%A8%D9%87+%D8%AC%D8%B2+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 
-vless://c25b115e-ce01-4547-a183-84501027aa6a@zula.ir:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=409032885.ir.www.zula.ir.xn--4all.king4usd.shop.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+vless://84ddd05a-0e2a-4b7e-a0d2-f214bff4243b@gama.ir:443?mode=gun&security=tls&encryption=none&authority=xn--mgbUg7c2Am63G.joBfiNex.ir.&type=grpc&serviceName=%2F%40custom_config%3Fed%3D2056&sni=xn--mgbUg7c2aM63g.jObfineX.ir.#V2rayNG+x+%7C+%D8%A8%D9%87+%D8%AC%D8%B2+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
-V2rayNG - سرور, [5/25/2024 9:02 PM]
-🚒 Servers For V2rayNg (https://t.me/prrofile_purple/15045) & NapsternetV (https://t.me/prrofile_purple/15043) App. 
+vless://e95097f9-9171-4ccc-a78c-f1ae6cd6607c@discord.org.:8080?path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet&security=none&encryption=none&host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&type=ws#V2rayNG+x+%7C+%D8%A8%D9%87+%D8%AC%D8%B2+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
+برای کپی روی سرور ❤️❤️❤️☝️ 
 
-🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
+💚 اندروید :
+📌 آموزش اتصال سرور با برنامه V2rayNG (https://t.me/V2rayNGX/5232)
+🔄 دانلود برنامه V2rayNG (https://t.me/V2rayNGX/5228) (فایل مستقیم)
+⚠️ دانلود برنامه V2rayNG (https://play.google.com/store/apps/details?id=com.v2ray.ang) (گوگل پلی)
 
+🤍🤍 آیفون :
+🕯 آموزش اتصال به سرور (https://t.me/V2rayNGX/5229) (napsternetV)
+✨ دانلود برنامه napsternetV (https://apps.apple.com/us/app/napsternetv/id1629465476)
 
+🔝 آموزش اتصال به سرور (https://t.me/V2rayNGX/5230) (FoXray)
+✅ دانلود برنامه FoXray (https://apps.apple.com/us/app/foxray/id6448898396)
 
+🚨 آموزش اتصال به سرور (https://t.me/V2rayNGX/5231) (V2box)
+🎁 دانلود برنامه v2Box (https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)
 
+@V2rayNGX 📣
 
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+V2rayNG NapsternetV FoXray V2box proxy | سرور رایگان, [5/29/2024 11:53 PM]
+سرور جدید V2ray 👑🤍
 
-🐨
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+vless://f1408723-2921-40a0-99cd-7e04951db11c@ch.ni-ham.info:2053?path=%2F%3Fed%3D2087&security=tls&encryption=none&alpn=h2&host=ajghg.f-vipo.ir&fp=chrome&type=ws&sni=ajghg.f-vipo.ir#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
-🐻‍❄️
-vless://Telegram-proxy_mtm@check-host.net:80?path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+vless://---DIGIV2RAY----@www.Speedtest.Net:2095?path=%2FDIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray%3Fed%3D1024&security=none&encryption=none&host=www.iranseda.ir.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
-🐼
-vless://Telegram-proxy_mtm@185.146.173.58:80?path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+vless://279b52ca-13a1-4f15-a104-d9f4cc958de0@185.146.173.94:8080?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
-🐻
-vless://Telegram-proxy_mtm@188.114.97.3:80?path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+vless://---DIGIV2RAY----@185.146.173.179:2095?path=%2FDIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray%3Fed%3D1024&security=none&encryption=none&host=DigiV2ray---__---DIgI.radioTehran.org.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
-🦊
-vless://Join-VPNCUSTOMIZE@Join--VPNCUSTOMIZE.V2ray.re:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+vless://0c21a4a4-fbbd-466e-97a3-13bef9b2b429@185.146.173.94:8880?path=%2F%40PUSYVPN+TEL++%40PUSYVPN+TEL++%40PUSYVPN+TEL++%40PUSYVPN+JOIN+%40PUSYVPN+TEL++%40PUSYVPN+JOIN+%40PUSYVPN+TEL++%40PUSYVPN+TEL++%40PUSYVPN+JOIN+%40PUSYVPN+TEL++%40PUSYVPN+%40LiV2ray&security=none&encryption=none&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn.privatepywnet.top.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
-🐹
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=%2F&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+vless://Parsashonam-82@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
-🐭
-vless://c46762c9-2379-4b21-9aff-6d20363fc35d@185.146.173.158:2095?path=%2F&security=none&encryption=none&host=hjkma.numall.xyz.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+vless://Parsashonam-82@185.146.173.94:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
-🐱
-vless://dc2fd4cc-0d8a-4410-bdcd-1a41b3bbde85@185.146.173.58:2095?path=%2F&security=none&encryption=none&host=gvrfcvc.numall.xyz.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+vless://1eccf592-4323-4a11-8a2a-dd800eadff5b@104.16.141.107:80?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg&security=none&encryption=none&host=vmessorg1.xn--54qv00ez5ar77g.co.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
-🐶
-vless://4436b3aa-3e69-473b-b8c4-ad962d9ea66e@5.145.119.39:2086?path=%2FOceanNetworks&security=none&encryption=none&host=www.iriknet.ir&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+vless://1eccf592-4323-4a11-8a2a-dd800eadff5b@185.146.173.18:80?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg&security=none&encryption=none&host=vmessorg1.xn--54qv00ez5ar77g.co.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
+vless://c4b065f3-a9c8-4425-9f2c-bef657840bc1@188.114.96.2:2095?path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet&security=none&encryption=none&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+برای کپی روی سرور ❤️❤️❤️☝️ 
 
+💚 اندروید :
+📌 آموزش اتصال سرور با برنامه V2rayNG (https://t.me/V2rayNGX/5232)
+🔄 دانلود برنامه V2rayNG (https://t.me/V2rayNGX/5228) (فایل مستقیم)
+⚠️ دانلود برنامه V2rayNG (https://play.google.com/store/apps/details?id=com.v2ray.ang) (گوگل پلی)
 
+🤍🤍 آیفون :
+🕯 آموزش اتصال به سرور (https://t.me/V2rayNGX/5229) (napsternetV)
+✨ دانلود برنامه napsternetV (https://apps.apple.com/us/app/napsternetv/id1629465476)
 
+🔝 آموزش اتصال به سرور (https://t.me/V2rayNGX/5230) (FoXray)
+✅ دانلود برنامه FoXray (https://apps.apple.com/us/app/foxray/id6448898396)
 
-⚠️ عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.
-#نشردهید 
+🚨 آموزش اتصال به سرور (https://t.me/V2rayNGX/5231) (V2box)
+🎁 دانلود برنامه v2Box (https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)
 
-@prrofile_purple
-
-V2rayNG - سرور, [5/26/2024 1:39 PM]
-🚒 Servers For V2rayNg (https://t.me/prrofile_purple/15045) & NapsternetV (https://t.me/prrofile_purple/15043) App. 
-
-🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
-
-
-
-
-
-vless://9e2aa663-44c2-48c0-86af-11ef28735ba9@162.159.138.232:8080?path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray&security=none&encryption=none&host=de2.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-
-🐒
-vless://e81ce259-6149-405e-bbe5-a6c17c8812a9@185.146.173.58:8080?path=%2FTELEGRAM%3A%40Client_Proo_TELEGRAM%3A%40Client_Proo&security=none&encryption=none&host=client_proo.%E5%88%97%E5%87%BA%E7%94%B7%E4%BA%BA%E7%9A%84%E5%B1%81%E8%82%A1%E4%BB%96%E5%A6%88%E7%9A%84%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A78.website.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-
-🙊
-vless://a84f9dab-939e-425f-9072-f05027480fe0@104.16.232.20:80?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg&security=none&encryption=none&host=vmessorg1.xn--54qv00ez5ar77g.co.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-
-🐵
-vless://9e2aa663-44c2-48c0-86af-11ef28735ba9@162.159.135.232:8080?path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray&security=none&encryption=none&host=de2.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-
-🐸
-vless://telegram-id-ArV2ray@185.146.173.58:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ARV2ray%3Fed%3D2048&security=none&encryption=none&host=12.V2ray.mihanyas.ir.mbj.farsroid.com.%E7%94%B712.%E5%88%9B%E4%BC%98%E8%88%8D%E5%88%9B%E4%BC%98%E8%88%8D.Store.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-
-🐽
-vless://c25b115e-ce01-4547-a183-84501027aa6a@zula.ir:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=6290250087.ir.www.zula.ir.xn--4all.king4usd.shop.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-
-🐷
-vless://7272c784-b6d3-4ef5-a384-0d1b2d742292@185.58.241.252:48405?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-
-🐮
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F%3Fed&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-
-🦁
-vless://c25b115e-ce01-4547-a183-84501027aa6a@zula.ir:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=409032885.ir.www.zula.ir.xn--4all.king4usd.shop.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-
-🐯
-vless://98ef04ad-7acf-4243-a73d-9b7044dba51d@185.146.173.32:80?path=%40V2RAXX-%40V2RAXX%3Fed&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-
-
-
-
-
-⚠️ عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.
-#نشردهید 
-
-@prrofile_purple
+@V2rayNGX 📣
